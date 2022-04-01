@@ -1,0 +1,27 @@
+{
+  "name": "@loveklee/semantic-release-test",
+  "version": "0.0.0-development",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "semantic-release": "semantic-release"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MoyuScript/semantic-release-test.git"
+  },
+  "author": "MoyuScript <i@moyu.moe>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MoyuScript/semantic-release-test/issues"
+  },
+  "homepage": "https://github.com/MoyuScript/semantic-release-test#readme",
+  "dependencies": {
+    "semantic-release": "^19.0.2",
+    "semantic-release-cli": "^5.4.4"
+  },
+  "devDependencies": {
+    "semantic-release": "^19.0.2"
+  }
+}
